@@ -1,5 +1,5 @@
 #tag Module
-Protected Module Emojis
+Protected Module UIEmojis
 	#tag Method, Flags = &h1
 		Protected Function Activities() As String()
 		  if (mActivities.Ubound = -1) then
